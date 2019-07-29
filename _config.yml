@@ -1,38 +1,25 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: akorkovelos/akorkovelos.github.io
+favicon: images/favicon.ico
 
 # Personal info
 name: Alexandros Korkovelos
 title: Geospatial Data Analyst
-email: 
-phone: Your phone number (optional)
+email: alex.lari.kor@gmail.com
+#phone: 0046 735 84 36 13
 website: akorkovelos.me
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+linkedin_username: alexandros-korkovelos-07931168
+github_username: akorkovelos
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+about_profile_image: images/avataars.png
+about_content: | # this will include new lines to allow paragraphs. This supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>. 
+ Geospatial data analyst, highly motivated by the great potential of <mark>remote sensing</mark>, <mark>big data</mark> & <mark>geospatial analysis</mark> in supporting innovation towards
+ sustainable development. Interested in a role of data scientist through which I can use and further develop my technical and analytical skills to
+ provide strategic advice and insights to complex problems.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -46,9 +33,15 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  Some of my other interests and hobbies are:
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+    - Geo-politics
+    - Political history
+    - Aviation
+    - Travelling
+    - Crossfit
+    - Indoor gardening
+
 
 # Footer
 footer_show_references: true

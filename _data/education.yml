@@ -1,9 +1,22 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: KTH Royal Institute of Technology (Sweden)
+  dates: Sep 2015 - Nov 2019 (expected)
+  qualification: PhD candidate in Energy Systems Analysis    
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    **Research Focus:** Energy modelling and systems’ planning to support electrification activities in developing
+    economies under the Sustainable Energy for All (SE4ALL) framework.
+
+    **Main Courses:** Energy System Economics, M odelling and Indicators for Sustainable Energy Development,
+    Energy Data, Balances and Projections, Energy and Geopolitics, Spatial Data Analysis.
+
+- layout: left
+  name: KTH Royal Institute of Technology (Sweden)
+  dates: Sep 2015 - Nov 2019 (expected)
+  qualification: PhD candidate in Energy Systems Analysis    
+  description: | # this will include new lines to allow paragraphs
+    **Research Focus:** Energy modelling and systems’ planning to support electrification activities in developing
+    economies under the Sustainable Energy for All (SE4ALL) framework.
+
+    *Main Courses:* Energy System Economics, M odelling and Indicators for Sustainable Energy Development,
+    Energy Data, Balances and Projections, Energy and Geopolitics, Spatial Data Analysis.
