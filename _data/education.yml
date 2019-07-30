@@ -1,22 +1,36 @@
 # Education Template
 - layout: left
-  name: KTH Royal Institute of Technology (Sweden)
+  name: KTH
   dates: Sep 2015 - Nov 2019 (expected)
-  qualification: PhD candidate in Energy Systems Analysis    
+  qualification: PhD in Energy Systems Analysis    
   description: | # this will include new lines to allow paragraphs
     **Research Focus:** Energy modelling and systems’ planning to support electrification activities in developing
-    economies under the Sustainable Energy for All (SE4ALL) framework.
+    economies under the Sustainable Energy for All (SE4ALL) framework
 
     **Main Courses:** Energy System Economics, M odelling and Indicators for Sustainable Energy Development,
-    Energy Data, Balances and Projections, Energy and Geopolitics, Spatial Data Analysis.
+    Energy Data, Balances and Projections, Energy and Geopolitics, Spatial Data Analysis
 
 - layout: left
-  name: KTH Royal Institute of Technology (Sweden)
-  dates: Sep 2015 - Nov 2019 (expected)
-  qualification: PhD candidate in Energy Systems Analysis    
+  name: UPC & KTH
+  dates: Sep 2013 - Aug 2015 
+  qualification: MSc in Sustainable Energy  
   description: | # this will include new lines to allow paragraphs
-    **Research Focus:** Energy modelling and systems’ planning to support electrification activities in developing
-    economies under the Sustainable Energy for All (SE4ALL) framework.
+    **Main courses:** Energy Resources, Renewable Energy Technologies, Energy & Environment, Polygeneration,
+    Economics and Energy Markets, Innovation & Entrepreneurship in Sustainable Energy Technology,
+    Environomical Pathways for Sustainable Energy Conversion
 
-    *Main Courses:* Energy System Economics, M odelling and Indicators for Sustainable Energy Development,
-    Energy Data, Balances and Projections, Energy and Geopolitics, Spatial Data Analysis.
+    **Master Thesis** at Renetech AB on "Energy modelling to support subnational sustainable
+    planning in developing countries: The case of Kakamega County in Kenya"
+
+    *European Institute of Innovation & Technology (EIT KIC InnoEnergy) Scholar 2013 - 2015*
+
+
+- layout: left
+  name: DUTH
+  dates: Sep 2007 - Jul 2013 
+  qualification: MEng in Industrial Engineering
+  description: | # this will include new lines to allow paragraphs
+    **Main courses:** Main courses: Computer Programming, Data analysis, Operations Resource Management, Total Quality
+    Management, Project Management, Marketing, Industrial Economics, Industrial Informatics.
+
+    **Master Thesis** on ecoReDesign of industrial product: Case of split unit air conditioner
