@@ -17,9 +17,14 @@ github_username: akorkovelos
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/avataars.png
 about_content: | # this will include new lines to allow paragraphs. This supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>. 
- Geospatial data analyst, highly motivated by the great potential of <mark>remote sensing</mark>, <mark>big data</mark> & <mark>geospatial analysis</mark> in supporting innovation towards
- sustainable development. Interested in a role of data scientist through which I can use and further develop my technical and analytical skills to
- provide strategic advice and insights to complex problems.
+ I am an enthusiastic geospatial data analyst currently leading the Sustainable Energy for All team at KTH. My work focuses on linking Geographic Information  Systems  (GIS)  and  energy  systems models to support planning and/or policy for rural electrification. 
+ Over the past years I have been working on enhancing key components of the OnSSET model and as well as coordinating several projects with key partners inclucing the World Bank, UNDESA, IEA, SNV and ABB.
+
+ Looking forward, I am highly motivated by the great potential of <mark>remote sensing</mark>, <mark>big data</mark> & <mark>data science</mark> in supporting solutions towards
+ sustainable development. Thus, very much interested in expanding my technical and analytical skills in these areas and dedicate my work on tackling complex problems of our world.
+
+ **Expertise:** Geospatial analysis, energy access, electrification planning, capacity building & knowledge transfer
+ 
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
