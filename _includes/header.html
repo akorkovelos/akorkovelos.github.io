@@ -83,6 +83,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.cv_link -%}
+          <li>
+            <a target="_blank" href="https://github.com/akorkovelos/akorkovelos.github.io/blob/master/assets/{{ site.cv_link| escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-file-pdf-o" title="Get CV"></i>
+            </a>
+          </li>
+        {%- endif -%}
       </ul>
 
       {%- if site.email -%}
