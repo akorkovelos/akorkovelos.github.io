@@ -26,4 +26,9 @@
     {%- endif -%}
     {{ include.item.description | strip | markdownify }}
   </div>
+    <div class="col-xs-12 col-print-12 details ">
+      {% if include.item.image -%}<img src="{{site.baseurl}}/images/{{ include.item.image }}">{%- endif -%}
+    </div>
 </div>
+
+
