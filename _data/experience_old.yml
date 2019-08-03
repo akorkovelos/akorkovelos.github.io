@@ -1,0 +1,47 @@
+# Experience template
+- layout: left
+  company: KTH - Sweden
+  #link: http://www.kth.se
+  job_title: Research Consultant
+  dates: Sep 2015 - present
+  description: | # this will include new lines to allow paragraphs
+    Description of role ...
+
+    - Coordinate the development of the Global Electrification Platform (GEP): Client: The World Bank
+    - Coordinate and support the geospatial electrification analysis featuring at IEA’s Energy Access Outlook 2019: Client: IEA
+    - Coordinate and support the development of the Open Source Spatial Electrification Toolkit (OnSSET) Client: UNDESA, SIDA, ABB, The World Bank
+    - Conduct the geospatial electrification analysis featuring at IEA’s Energy Access Outlook 2017: Client: IEA
+    - Conduct geospatial electrification analyses for developing countries (44 countries in Sub-Saharan Africa, 10 countries in Latin America & 6 countries in South East Asia) Client: UNDP-UNDESA
+    - Develop and maintain a comprehensive geo-database of energy related data for developing countries Client: The World Bank
+    - Support educational and capacity building activities in developing countries organized by KTH dESA, UNDESA and The World Bank
+    - Coordinate (research) proposals: The World Bank, Africa Development Bank, UNDESA, IEA, ESA
+
+    Project Manager
+    - Energy planning for boosting agricultural productivity in M ozambique Client: The World Bank
+    - Electrification perspectives for M adagascar Client: The World Bank 
+    -Rural electrification and energy infrastructure planning in Afghanistan Client: The World Bank
+
+- layout: left
+  company: Renetech AB - Sweden
+  #link: http://www.renetech.net/
+  job_title: Junior Energy Consultant
+  dates: Feb 2015 - Nov 2015
+  description: | # this will include new lines to allow paragraphs
+    Description of role ...
+
+    - Coordinating the feasibility study for a small hydro power plant in Rucanzogera, Rwanda
+    - Provided GIS support to the elaboration of the geo-topological and hydrological assessment of the project
+    - Developed a socio-economic and environmental assessment for the project
+    - Reviewed the legal and institutional framework for electrification processes in Rwanda
+
+- layout: left
+  company: Xingyu ALS - China
+  #link: Link to company (optional)
+  job_title: Apprenticeship on production planning processes
+  dates: Jul 2012 - Dec 2012
+  description: | # this will include new lines to allow paragraphs
+    Description of role ...
+
+    - Support procurement regulations and inventory management using MRP systems
+    - Setup a database (MS Access) for more effective information exchange between the involved departments
+    - Involvement in the implementation of Lean manufacturing processes through data mining

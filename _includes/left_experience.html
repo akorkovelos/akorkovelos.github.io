@@ -1,0 +1,10 @@
+<div class="row clearfix layout layout-left">
+  <div class="col-xs-12 col-print-20 details">
+    <font size="3"><b>{{ include.item.type | strip | escape }}</b> {{ include.item.client | strip | escape }} <i>{{ include.item.role | strip | escape }}</i> {{ include.item.location | strip | escape }} 
+    </font>  
+    {%- if include.item.link -%}
+    <a href="{{ include.item.link }}" target="_blank">
+      <i class="fa fa-external-link" aria-hidden="true" title="link to publication"></i>
+    </a>{%- endif -%}
+  </div>
+</div>

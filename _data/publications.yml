@@ -1,0 +1,84 @@
+# Publication template
+- layout: left_publication
+  title: 
+  first_author: First author
+  author_list: 
+  journal: 
+  link: 
+
+- layout: left_publication
+  title: “The Role of Open Access Data in Geospatial Electrification Planning and the Achievement of SDG7. An OnSSET-Based Case Study for Malawi,”
+  first_author: Korkovelos A.
+  author_list: Khavari B.; Sahlberg A.; Arderne C.; Howells M.;
+  journal: Energies (2019), Volume 12, Issue 7
+  link: https://doi.org/10.3390/en12071395
+
+- layout: left_publication
+  title: “A geospatial assessment of small-scale hydropower potential in Sub-Saharan Africa,”
+  first_author: Korkovelos A.
+  author_list: Mentis D.; Siyal S.; Arderne C.; Rogner H.; Bazillian M .; Howells M .; Beck H.; De Roo A.; 
+  journal: Energies (2019), Volume 11, Issue 11
+  link: https://doi.org/10.3390/en11113100
+
+- layout: left_publication
+  title: “Energy planning in fragile environment; The case study of Afghanistan,”
+  first_author: (Under Review) Korkovelos A.
+  author_list: Mentis D.; Siyal S.; Bazillian M .; Angelou N.; Howells M .;
+  journal: Energy Strategy Reviews
+  link: not-available-yet
+
+- layout: left_publication
+  title: “A retrospective analysis of electrification with a focus on isolated and mini-grids,”
+  first_author: (Under review) Korkovelos A.
+  author_list: Howells M .; Nerini F.; Bazillian M .; Zerriffi H.; Rogner H.;
+  journal: Technological Forecasting & Social Change
+  link: not-available-yet
+
+- layout: left_publication
+  title: “Energy modelling to support sub-national sustainable planning in developing countries, the case of Kakamega County in Kenya,”
+  first_author: Korkovelos A.
+  author_list: 
+  journal: KTH DiVA
+  link: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A852441&dswid=-7858
+
+- layout: left_publication
+  title: 
+  first_author: Co-author
+  author_list: 
+  journal: 
+  link: 
+
+- layout: left_publication
+  title: “Estimating the spatially explicit wind generated electricity cost in Africa - A GIS based analysis,”
+  first_author: Mentis D.
+  author_list: Siyal S.; Korkovelos A.; Howells M .; 
+  journal: Energy Strategy Reviews (2017), Volume 17, 45-49
+  link: https://doi.org/10.1016/j.esr.2017.07.002
+
+- layout: left_publication
+  title: “Lighting the World, the first application of an open source, spatial electrification tool (OnSSET) on Sub-Saharan Africa,”
+  first_author: Mentis D.
+  author_list: Howells M .; Rogner H.; Korkovelos A.; Arderne C.; Zepeda E.; Siyal S.; Taliotis C.; Bazillian M .; De Roo A.; Tanvez Y.; Oudalov A.; 
+  journal: Environmental Research Letters (2017), Volume 12, 8
+  link: https://iopscience.iop.org/article/10.1088/1748-9326/aa7b29/meta
+
+- layout: left_publication
+  title: “Electrification pathways for Kenya – linking spatial electrification analysis and medium to long term energy planning,”
+  first_author: Moksnes N.
+  author_list: Korkovelos A.; Mentis D.; Howells M .;
+  journal: Environmental Research Letters (2017)
+  link: https://iopscience.iop.org/article/10.1088/1748-9326/aa7e18/meta
+
+- layout: left_publication
+  title: “A geospatial assessment of the techno-economic wind power potential in India using geographical restrictions,”
+  first_author: Mentis D.
+  author_list: Siyal S.; Korkovelos A.; Howells M .;
+  journal: Renewable Energy (2016), Volume 97, 77-88,
+  link: https://doi.org/10.1016/j.renene.2016.05.057
+
+- layout: left_publication
+  title: “The benefits of geospatial planning in energy access – A case study on Ethiopia,”
+  first_author: Mentis D.
+  author_list: Andersson M .; Howells M .; Rogner H.; Siyal S.; Broad O.; Korkovelos A.;
+  journal: Applied Geography (2016), Volume 72, 1-13
+  link: https://doi.org/10.1016/j.apgeog.2016.04.009

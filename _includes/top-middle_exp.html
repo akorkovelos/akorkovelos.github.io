@@ -1,0 +1,22 @@
+<div class="row clearfix layout layout-top-middle">
+  <div class="col-xs-12 col-print-12 details">
+    {%- if include.item.name -%}
+      {%- if include.item.link -%} 
+        <h4><a href="{{ include.item.link }}" target="_blank" > {{ include.item.name }}</h4></a>
+      {%- endif -%}
+    {%- endif -%}
+    {%- if include.item.client -%}<i><h2>{{ include.item.client }}</h2></i>{%- endif -%}
+  </div>
+    <div class="col-xs-12 col-print-12 details ">
+      {% if include.item.image -%}
+      <a href="{{ include.item.link }}" target="_blank"> <img src="{{site.baseurl}}/images/{{ include.item.image }}"></a>{%- endif -%}
+    </div>
+  <div class="col-xs-12 col-print-12">
+    {%- if include.item.quote -%}
+      <p class="quote">{{ include.item.quote }}</p>
+    {%- endif -%}
+    {{ include.item.description | strip | markdownify }}
+  </div>
+</div>
+
+

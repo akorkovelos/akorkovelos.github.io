@@ -1,47 +1,48 @@
-# Experience template
-- layout: left
-  company: KTH - Sweden
-  #link: http://www.kth.se
-  job_title: Research Consultant
-  dates: Sep 2015 - present
-  description: | # this will include new lines to allow paragraphs
-    Description of role ...
+# Workshops template
+- layout: top-middle_exp
+  name: OpTIMUS Summer School (Trieste June 2019)
+  client: World Bank, DFID
+  link: http://indico.ictp.it/event/8751/
+  github: 
+  image: Trieste_19.jpg
+  quote: >
+    Three-week capacity building activity. Activities included preparation of training material, lecturing, coaching and debugging electrification models. 
+    Participants represented research institutions, government agencies and energy utilities from Uganda, Afghanistan, Niger, Nigeria, Ghana, Burkina Faso, Kingdom of Eswatini and Uruguay.
 
-    - Coordinate the development of the Global Electrification Platform (GEP): Client: The World Bank
-    - Coordinate and support the geospatial electrification analysis featuring at IEA’s Energy Access Outlook 2019: Client: IEA
-    - Coordinate and support the development of the Open Source Spatial Electrification Toolkit (OnSSET) Client: UNDESA, SIDA, ABB, The World Bank
-    - Conduct the geospatial electrification analysis featuring at IEA’s Energy Access Outlook 2017: Client: IEA
-    - Conduct geospatial electrification analyses for developing countries (44 countries in Sub-Saharan Africa, 10 countries in Latin America & 6 countries in South East Asia) Client: UNDP-UNDESA
-    - Develop and maintain a comprehensive geo-database of energy related data for developing countries Client: The World Bank
-    - Support educational and capacity building activities in developing countries organized by KTH dESA, UNDESA and The World Bank
-    - Coordinate (research) proposals: The World Bank, Africa Development Bank, UNDESA, IEA, ESA
+- layout: top-middle_exp
+  name: OpTIMUS Summer School (Trieste June 2018)
+  client: World Bank, UNDP
+  link: http://indico.ictp.it/event/8315/
+  github: 
+  image: Trieste_181.jpg
+  quote: >
+    Four-week capacity building activity. The workshop covered lectures and hands-on sessions on topics such as geospatial data collection and processing, and electrification modelling using the OnSSET tool. 
+    At the event participated 25 representatives from research institutions, government agencies and energy utilities from 11 countries (Mozambique, Togo, Ghana, Madagascar, Myanmar, Haiti, Malawi, Uganda, South Africa, Brasil and Italy).
 
-    Project Manager
-    - Energy planning for boosting agricultural productivity in M ozambique Client: The World Bank
-    - Electrification perspectives for M adagascar Client: The World Bank 
-    -Rural electrification and energy infrastructure planning in Afghanistan Client: The World Bank
+- layout: top-middle_exp
+  name: Energy Modelling Platform for Africa (Addis Ababa January 2018)
+  client: United Nations Economic Commission for Africa (UNECA) - Climate Policy Centre (ACPC)
+  link: https://www.uneca.org/stories/energy-experts-convene-africa%E2%80%99s-first-energy-modelling-platform-event
+  github: 
+  image: EMPA_18.jpg
+  quote: >
+    Supporting the organization and derivering one-week training on OnSSET. At the event participated over 30 trainees including government officials from across the continent, as well as academics and local UNECA analysts.
 
-- layout: left
-  company: Renetech AB - Sweden
-  #link: http://www.renetech.net/
-  job_title: Junior Energy Consultant
-  dates: Feb 2015 - Nov 2015
-  description: | # this will include new lines to allow paragraphs
-    Description of role ...
+- layout: top-middle_exp
+  name: Training Workshop on OnSSET (Dubai Jyly 2017)
+  client: World Bank
+  link: https://www.uneca.org/stories/energy-experts-convene-africa%E2%80%99s-first-energy-modelling-platform-event
+  github: 
+  image: Dubai_17.jpg
+  quote: >
+    Training workshop on OnSSET model. During the workshop, GIS experts from various Afghan institutions (AEIC, KUP, DABS, CRIDA, MRRD, AGCHO) were introduced to the OnSSET tool (OnSSET.org) and discussed along with Word Bank energy specialists upon the functionality and usability of the tool in their national energy access planning efforts.
 
-    - Coordinating the feasibility study for a small hydro power plant in Rucanzogera, Rwanda
-    - Provided GIS support to the elaboration of the geo-topological and hydrological assessment of the project
-    - Developed a socio-economic and environmental assessment for the project
-    - Reviewed the legal and institutional framework for electrification processes in Rwanda
-
-- layout: left
-  company: Xingyu ALS - China
-  #link: Link to company (optional)
-  job_title: Apprenticeship on production planning processes
-  dates: Jul 2012 - Dec 2012
-  description: | # this will include new lines to allow paragraphs
-    Description of role ...
-
-    - Support procurement regulations and inventory management using MRP systems
-    - Setup a database (MS Access) for more effective information exchange between the involved departments
-    - Involvement in the implementation of Lean manufacturing processes through data mining
+- layout: top-middle_exp
+  name: World Hydropower Congress (Addis Ababa May 2017)
+  client: International Hydropower Association IHA
+  link: https://www.hydropower.org/news/iha-young-researchers-of-the-year-2017-winners-announced
+  github: 
+  image: IHA_17.jpg
+  quote: >
+    Presentation of initial findings on the technical assessment of small-scale hydropower (0.01-10 MW) in  Sub-Saharan Africa using open-source geospatial datasets.
+    Recieved the 2017 IHA Young Researcher of the Year.
