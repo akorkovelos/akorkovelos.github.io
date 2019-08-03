@@ -2,6 +2,9 @@
 repository: akorkovelos/akorkovelos.github.io
 favicon: images/favicon.ico
 
+# Google Analytics
+google_analytics: UA-145086259-1
+
 # Personal info
 name: Alexandros Korkovelos
 title: Geospatial Data Analyst
