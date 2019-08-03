@@ -1,27 +1,89 @@
 # Project template
 - layout: top-middle
-  name: This is the first project I mention
-  link: link_to_publication
-  github: Link_to_github
-  image: android-chrome-192x192.png
+  name: Global Electrification Platform (in progress)
+  client: "Client: The World Bank"
+  link: http://globalelectrificationplatform.com/
+  github: global-electrification-platform
+  image: 
   quote: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    The Global Electrification Platform (GEP) is a multi-phase project aiming at improving, standarding, and simplify the use of geospatial tools in least-cost electrification planning. 
+    The face of the GEP is a web platform for exploring least-cost electrification plans developed for all countries with < 90% electrification. GEP displays electrification options as derived from the OnSSET model developed by KTH dESA.
+    It is an open source project being designed upon the principles of transparency; it aspires to enable reusability, replicability and reproducibility of embedded processes and data. 
+
   description: | # Description about the work on/with the project
 
 - layout: top-middle
-  name: This is the second project I mention
-  link: link_to_publication
-  github: Link_to_github
-  image: android-chrome-192x192.png 
+  name: AgroDem (in progress)
+  client: "Client: The World Bank"
+  link: to-be-updated
+  github: akorkovelos/agrodem
+  image: 
   quote: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    The project employs a novel, modular and open source methodology to  allow for delivery  of multi-layered  insights  into  estimated  quantity  and  characteristics  of electricity demand from agricultural activities (irrigation & post harvest processing) in Mozambique. The project is a collaboration between KTH dESA and Vivid Economics, and part  of  a  multi-year WB ESMAP effort entitled “Geospatial  Electrification  Planning  in  the  Africa Region”. 
+
   description: | # Description about the work on/with the project
 
 - layout: top-middle
-  name: This is the third project I mention
-  link: link_to_publication
-  github: Link_to_github
-  image: android-chrome-192x192.png 
+  name: IEA’s Energy Access Outlook 2019 (in progress)
+  client: "Client: The International Energy Agency"
+  link: to-be-updated
+  github: KTH-dESA/IEA_2019_v2
+  image: 
   quote: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Developing a spatially-explicit model that determines, for two time steps (2025 and 2030), the electrification strategy that delivers electricity access at the lowest cost for several Geographical zones in Sub-Saharan Africa.
+    The outcome is expected to feature IEA's Special Report on Africa (November 2019) as part of the World Energy Outlook (WEO) 2019 series.  Tho objective is to provide an in-depth analysis, quantitatively investigating today’s picture for access to modern energy, the strategies and technologies that can enable countries to achieve energy for all by 2030, and the ways in which reliable energy can move communities from poverty towards prosperity.
+  description: | # Description about the work on/with the project
+
+- layout: top-middle
+  name: Electrification pathways in Benin (completed 2018)
+  client: "Client: SNV"
+  link: http://www.onsset.org/electrification-pathways-for-benin.html
+  github: KTH-dESA/OnSSET-Benin
+  image: 
+  quote: >
+    Integrated geospatial electrification planning activity to assess potential electrification futures in Benin. The analysis was conducted using the OnSSET tool, utilising local data and involving key stakeholders from government, the private sector and academia. The final output includes a report in English and French and an open source code.
+  description: | # Description about the work on/with the project
+
+- layout: top-middle
+  name: Least-Cost Electricity Access in Madagascar (completer 2018)
+  client: "Client: The World Bank"
+  link: http://documents.worldbank.org/curated/en/281861547039951916/Project-Information-Document-Integrated-Safeguards-Data-Sheet-Madagascar-Least-Cost-Electricity-Access-Development-Project-LEAD-P163870
+  github: KTH-dESA/OnSSET-2017
+  image: 
+  quote: >
+    Integrated electrification planning activity in Madagascar as part of the World Bank LEAD project (P163870). The geospatial analysis was conducted using the OnSSET tool, utilising local data and involving key stakeholders from government and private sector. The final output includes a project report and an open source code.
+  description: | # Description about the work on/with the project
+
+- layout: top-middle
+  name: Energy Access Outlook 2017 (completed 2017)
+  client: "Client: The International Energy Agency"
+  link: https://www.iea.org/access2017/
+  github: not-available
+  image: 
+  quote: >
+    Geospatial electrification analysis conducted for 44 countries in Sub-Saharan Africa as part of IEA'a special report on energy access, featuring WEO 2017. The project used best-in-breed analytics on geospatial electrification modelling
+    and electricity demand projections and technology costs in alighnemnt with IEA's comprehensive modelling work. 
+  description: | # Description about the work on/with the project
+
+- layout: top-middle
+  name: A GIS approach to planning electrification in Afghanistan (completed 2017)
+  client: "Client: The World Bank"
+  link: https://energypedia.info/images/d/d6/A_GIS_approach_to_electrification_planning_in_Afghanistan.pdf
+  github: KTH-dESA/OnSSET-Afghanistan
+  image: 
+  quote: >
+    This study explores the technological options and investment requirements needed to boost electricity access levels in Afghanistan and presents a method for performing a spatial based electrification analysis. 
+    As part of the World Bank’s wider effort to inform investments focused on increasing Afghans’ access to affordable and sustainable energy, the study offers an initial, “quick pass” at selected data to provide a sense of scale and to inform a more detailed analysis to be performed at a later date
+  description: | # Description about the work on/with the project
+
+- layout: top-middle
+  name: Electrification Paths (completed 2016)
+  client: "Client: UNDESA"
+  link: https://un-modelling.github.io/modelling-tools/#geo-electricity
+  github: un-modelling/electrification-paths-visualisation
+  image: 
+  quote: >
+    This project uses geospatial data and OnSSET to determine the most cost-effective conventional and renewable energy technologies for bringing electricity to specific localities. It is designed to identify means of providing access to safe, affordable and reliable electricity to households that currently do not have it. 
+    The model compares options such as connections to the electrical grid, and mini-grid or stand-alone systems. It factors in population density, distance to transmission and road networks, renewable energy potential, fuel prices and estimated electricity consumption per household, among other considerations.
+    Results of the model were vizualized in an interactive platform developed and operated by UNDESA.
   description: | # Description about the work on/with the project
