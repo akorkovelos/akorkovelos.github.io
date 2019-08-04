@@ -1,6 +1,6 @@
 # Workshops template
 - layout: top-middle_exp
-  name: OpTIMUS Summer School (Trieste June 2019)
+  name: OpTIMUS Summer School (Trieste Jun 2019)
   client: World Bank, DFID
   link: http://indico.ictp.it/event/8751/
   github: 
@@ -10,18 +10,18 @@
     Participants represented research institutions, government agencies and energy utilities from Uganda, Afghanistan, Niger, Nigeria, Ghana, Burkina Faso, Kingdom of Eswatini and Uruguay.
 
 - layout: top-middle_exp
-  name: OpTIMUS Summer School (Trieste June 2018)
+  name: OpTIMUS Summer School (Trieste Jun 2018)
   client: World Bank, UNDP
   link: http://indico.ictp.it/event/8315/
   github: 
-  image: Trieste_181.jpg
+  image: Trieste_18.jpg
   quote: >
     Four-week capacity building activity. The workshop covered lectures and hands-on sessions on topics such as geospatial data collection and processing, and electrification modelling using the OnSSET tool. 
     At the event participated 25 representatives from research institutions, government agencies and energy utilities from 11 countries (Mozambique, Togo, Ghana, Madagascar, Myanmar, Haiti, Malawi, Uganda, South Africa, Brasil and Italy).
 
 - layout: top-middle_exp
-  name: Energy Modelling Platform for Africa (Addis Ababa January 2018)
-  client: United Nations Economic Commission for Africa (UNECA) - Climate Policy Centre (ACPC)
+  name: Energy Modelling Platform for Africa (Addis Ababa Jan 2018)
+  client: UNECA - Climate Policy Centre (ACPC)
   link: https://www.uneca.org/stories/energy-experts-convene-africa%E2%80%99s-first-energy-modelling-platform-event
   github: 
   image: EMPA_18.jpg
@@ -29,7 +29,7 @@
     Supporting the organization and derivering one-week training on OnSSET. At the event participated over 30 trainees including government officials from across the continent, as well as academics and local UNECA analysts.
 
 - layout: top-middle_exp
-  name: Training Workshop on OnSSET (Dubai Jyly 2017)
+  name: Capacity building (Dubai Jul 2017)
   client: World Bank
   link: https://www.uneca.org/stories/energy-experts-convene-africa%E2%80%99s-first-energy-modelling-platform-event
   github: 
@@ -46,3 +46,13 @@
   quote: >
     Presentation of initial findings on the technical assessment of small-scale hydropower (0.01-10 MW) in  Sub-Saharan Africa using open-source geospatial datasets.
     Recieved the 2017 IHA Young Researcher of the Year.
+
+- layout: top-middle_exp
+  name: Capacity building (New Delhi Feb 2017)
+  client: World Bank
+  link: not-available
+  github: 
+  image: Delhi_17.jpg
+  quote: >
+    Presentation of the National Electrification Plan, aiming to inform the Government of Afghanistan about which technology and investment options could be sought for relieable electrification of the country by 2030.
+    During the workshop, GIS experts from various Afghan institutions (AEIC, KUP, DABS, CRIDA, MRRD, AGCHO) were introduced into the OnSSET model and discussed along with Word Bank energy specialists upon the functionality and usability of the tool in their national energy access planning efforts.
