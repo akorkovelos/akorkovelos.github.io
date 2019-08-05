@@ -6,9 +6,9 @@
   github: global-electrification-platform
   image: 
   quote: >
-    The Global Electrification Platform (GEP) is a multi-phase project aiming at improving, standarding, and simplify the use of geospatial tools in least-cost electrification planning. 
-    The face of the GEP is a web platform for exploring least-cost electrification plans developed for all countries with < 90% electrification. GEP displays electrification options as derived from the OnSSET model developed by KTH dESA.
-    It is an open source project being designed upon the principles of transparency; it aspires to enable reusability, replicability and reproducibility of embedded processes and data. 
+    The Global Electrification Platform (GEP) is a multi-phase project aiming at improving, standardizing, and simplifying the use of geospatial tools in least-cost electrification planning. 
+    It's front end is an open web platform for exploring electrification plans for all countries battling with energy access. Scenarios are based on the OnSSET model developed by KTH dESA.
+    Both front and back end code of this project is open source, being designed upon the principles of transparency; it aspires to enable reusability, replicability and reproducibility of embedded processes and data. 
 
   description: | # Description about the work on/with the project
 
