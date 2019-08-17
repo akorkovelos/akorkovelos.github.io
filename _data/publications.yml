@@ -23,7 +23,7 @@
 - layout: left_publication
   title: “Energy planning in fragile environment; The case study of Afghanistan,”
   first_author: (Under Review) Korkovelos A.
-  author_list: Mentis D.; Siyal S.; Bazillian M .; Angelou N.; Howells M .;
+  author_list: Mentis D.; Siyal S.; Bazillian M .; Howells M .;
   journal: Energy Strategy Reviews
   link: not-available-yet
 
@@ -82,3 +82,32 @@
   author_list: Andersson M .; Howells M .; Rogner H.; Siyal S.; Broad O.; Korkovelos A.;
   journal: Applied Geography (2016), Volume 72, 1-13
   link: https://doi.org/10.1016/j.apgeog.2016.04.009
+
+- layout: left_publication
+  title: 
+  first_author: Other publications
+  author_list: 
+  journal: 
+  link: 
+
+- layout: left_publication
+  title: “A GIS approach to planning electrification in Afghanistan,”
+  first_author: 
+  author_list: Korkovelos A.; Bazillian M .; Mentis D.; Howells M .;
+  journal: Report generated for the World Bank (2017)
+  link: https://energypedia.info/images/d/d6/A_GIS_approach_to_electrification_planning_in_Afghanistan.pdf
+
+
+- layout: left_publication
+  title: “A retrospective analysis of the role of isolated and mini mini-grids in power system development,”
+  first_author: 
+  author_list: Korkovelos A.; Bazillian M .; Howells M .;
+  journal: Report generated for the World Bank (2017)
+  link: https://openknowledge.worldbank.org/bitstream/handle/10986/29023/ESM-ARetrospectiveAnalysisofTheRoleofIsolatedandMiniGridsinPower-PUBLIC.pdf?sequence=1&isAllowed=y
+
+- layout: left_publication
+  title: “Energy modelling to support sub-national sustainable planning in developing countries. The case of Kakamega County in Kenya,”
+  first_author: 
+  author_list: Korkovelos A.;
+  journal: MSc thesis report (2015)
+  link: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A852441&dswid=9638
