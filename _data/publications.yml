@@ -21,16 +21,16 @@
   link: https://doi.org/10.3390/en11113100
 
 - layout: left_publication
-  title: “Energy planning in fragile environment; The case study of Afghanistan,”
+  title: “Supporting electrification policy in fragile states, a conflict-adjusted geospatial least-cost approach for Afghanistan,”
   first_author: (Under Review) Korkovelos A.
-  author_list: Mentis D.; Siyal S.; Bazillian M .; Howells M .;
+  author_list: Mentis D.; Siyal S.; Bazillian M .; Howells M .; Saraj A.; Missfeldt-Ringius F.;
   journal: Energy Strategy Reviews
   link: not-available-yet
 
 - layout: left_publication
-  title: “A retrospective analysis of electrification with a focus on isolated and mini-grids,”
+  title: “Avoiding gridlock? A retrospective analysis of electrification (SDG7) with a focus on mini-grids,”
   first_author: (Under review) Korkovelos A.
-  author_list: Howells M .; Nerini F.; Bazillian M .; Zerriffi H.; Rogner H.;
+  author_list: Zerriffi H;, Howells M .; Bazillian M .; Rogner H.; Nerini F.; 
   journal: Technological Forecasting & Social Change
   link: not-available-yet
 
@@ -104,10 +104,3 @@
   author_list: Korkovelos A.; Bazillian M .; Howells M .;
   journal: Report generated for the World Bank (2017)
   link: https://openknowledge.worldbank.org/bitstream/handle/10986/29023/ESM-ARetrospectiveAnalysisofTheRoleofIsolatedandMiniGridsinPower-PUBLIC.pdf?sequence=1&isAllowed=y
-
-- layout: left_publication
-  title: “Energy modelling to support sub-national sustainable planning in developing countries. The case of Kakamega County in Kenya,”
-  first_author: 
-  author_list: Korkovelos A.;
-  journal: MSc thesis report (2015)
-  link: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A852441&dswid=9638
