@@ -24,14 +24,14 @@
   description: | # Description about the work on/with the project
 
 - layout: top-middle
-  name: IEA’s Energy Access Outlook 2019 (in progress)
+  name: IEA’s Africa Energy Outlook 2019 (completed 2019)
   client: "Client: The International Energy Agency"
-  link: to-be-updated
+  link: https://www.iea.org/africa2019/
   github: KTH-dESA/IEA_2019_v2
   image: 
   quote: >
     Developing a spatially-explicit model that determines, for two time steps (2025 and 2030), the electrification strategy that delivers electricity access at the lowest cost for several Geographical zones in Sub-Saharan Africa.
-    The outcome is expected to feature IEA's Special Report on Africa (November 2019) as part of the World Energy Outlook (WEO) 2019 series.  Tho objective is to provide an in-depth analysis, quantitatively investigating today’s picture for access to modern energy, the strategies and technologies that can enable countries to achieve energy for all by 2030, and the ways in which reliable energy can move communities from poverty towards prosperity.
+    The outcome is expected to feature IEA's Special Report on Africa (November 2019) as part of the World Energy Outlook (WEO) 2019 series.  The objective is to provide an in-depth analysis, quantitatively investigating today’s picture for access to modern energy, the strategies and technologies that can enable countries to achieve energy for all by 2030, and the ways in which reliable energy can move communities from poverty towards prosperity.
   description: | # Description about the work on/with the project
 
 - layout: top-middle
