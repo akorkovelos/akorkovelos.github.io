@@ -7,6 +7,13 @@
   link: 
 
 - layout: left_publication
+  title: “Supporting Electrification Policy in Fragile States. A Conflict-Adjusted Geospatial Least Cost Approach for Afghanistan,”
+  first_author: Korkovelos A.
+  author_list: Mentis D.; Siyal S.; Bazillian M .; Howells M .; Saraj A.; Missfeldt-Ringius F.;
+  journal: Sustainability (2020), Volume 12, Issue 3
+  link: https://www.mdpi.com/2071-1050/12/3/777
+
+- layout: left_publication
   title: “The Role of Open Access Data in Geospatial Electrification Planning and the Achievement of SDG7. An OnSSET-Based Case Study for Malawi,”
   first_author: Korkovelos A.
   author_list: Khavari B.; Sahlberg A.; Arderne C.; Howells M.;
@@ -17,21 +24,14 @@
   title: “A geospatial assessment of small-scale hydropower potential in Sub-Saharan Africa,”
   first_author: Korkovelos A.
   author_list: Mentis D.; Siyal S.; Arderne C.; Rogner H.; Bazillian M .; Howells M .; Beck H.; De Roo A.; 
-  journal: Energies (2019), Volume 11, Issue 11
+  journal: Energies (2018), Volume 11, Issue 11
   link: https://doi.org/10.3390/en11113100
-
-- layout: left_publication
-  title: “Supporting electrification policy in fragile states, a conflict-adjusted geospatial least-cost approach for Afghanistan,”
-  first_author: (Under Review) Korkovelos A.
-  author_list: Mentis D.; Siyal S.; Bazillian M .; Howells M .; Saraj A.; Missfeldt-Ringius F.;
-  journal: Energy Strategy Reviews
-  link: not-available-yet
 
 - layout: left_publication
   title: “Avoiding gridlock? A retrospective analysis of electrification (SDG7) with a focus on mini-grids,”
   first_author: (Under review) Korkovelos A.
-  author_list: Zerriffi H;, Howells M .; Bazillian M .; Rogner H.; Nerini F.; 
-  journal: Technological Forecasting & Social Change
+  author_list: Zerriffi H.; Howells M.; Bazillian M.; Rogner H.; Nerini F.; 
+  journal: Environmental Research Communications
   link: not-available-yet
 
 - layout: left_publication
