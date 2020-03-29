@@ -28,11 +28,11 @@
   link: https://doi.org/10.3390/en11113100
 
 - layout: left_publication
-  title: “Avoiding gridlock? A retrospective analysis of electrification (SDG7) with a focus on mini-grids,”
-  first_author: (Under review) Korkovelos A.
+  title: “A Retrospective Analysis of Energy Access with a Focus on the Role of Mini-Grids,”
+  first_author: Korkovelos A.
   author_list: Zerriffi H.; Howells M.; Bazillian M.; Rogner H.; Nerini F.; 
-  journal: Environmental Research Communications
-  link: not-available-yet
+  journal: Sustainability (2020), Volume 12, Issue 5
+  link: https://www.mdpi.com/2071-1050/12/5/1793
 
 - layout: left_publication
   title: “Energy modelling to support sub-national sustainable planning in developing countries, the case of Kakamega County in Kenya,”
@@ -47,6 +47,13 @@
   author_list: 
   journal: 
   link: 
+
+- layout: left_publication
+  title: “Planning with justice. Using spatial modelling to incorporate justice in electricity pricing – The case of Tanzania,”
+  first_author: Menghwani V.
+  author_list: Zerriffi H.; Korkovelos A.; Khavari B.; Sahlberg A.; Howells M.; Mentis D.; 
+  journal: Applied Energy (2020), Volume 264
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0306261920302610
 
 - layout: left_publication
   title: “Estimating the spatially explicit wind generated electricity cost in Africa - A GIS based analysis,”
