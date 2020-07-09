@@ -7,6 +7,13 @@
   link: 
 
 - layout: left_publication
+  title: “Advancing the state of geospatial electrification modelling. New data, methods, applications, insight and electrification investment outlooks,”
+  first_author: Korkovelos Alexandros;
+  author_list: 
+  journal: KTH Royal Institute of Technology
+  link: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1431484%22&dswid=5654
+
+- layout: left_publication
   title: “Supporting Electrification Policy in Fragile States. A Conflict-Adjusted Geospatial Least Cost Approach for Afghanistan,”
   first_author: Korkovelos A.
   author_list: Mentis D.; Siyal S.; Bazillian M .; Howells M .; Saraj A.; Missfeldt-Ringius F.;
@@ -36,7 +43,7 @@
 
 - layout: left_publication
   title: “Energy modelling to support sub-national sustainable planning in developing countries, the case of Kakamega County in Kenya,”
-  first_author: Korkovelos A.
+  first_author: Korkovelos Alexandros;
   author_list: 
   journal: KTH DiVA
   link: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A852441&dswid=-7858

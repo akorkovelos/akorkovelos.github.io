@@ -21,7 +21,7 @@ cv_link: Alexandros Korkovelos CV.pdf
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/avataars.png
 about_content: | # this will include new lines to allow paragraphs. This supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>. 
- I am an enthusiastic geospatial data analyst currently leading the [Sustainable Energy for All](https://www.kth.se/en/itm/inst/energiteknik/forskningsavdelningar/desa) team at KTH. My work focuses on linking Geographic Information  Systems  (GIS)  and  energy  systems models to support planning and policy development for rural electrification. 
+ Hi there! I 'm Alex, an enthusiastic geospatial data analyst. My work mainly focuses on linking Geographic Information  Systems  (GIS)  and  energy  systems models to support planning and policy development for rural electrification. 
  Over the past years I have been working on enhancing key components of the [OnSSET](http://www.onsset.org/) model as well as coordinating (or supporting) several projects with key partners such as the World Bank, UNDESA, IEA, UNECA, SNV and ABB.
 
  I am highly motivated by the great potential of <mark>big data</mark>, <mark>remote sensing</mark> & <mark>data science</mark> in supporting solutions towards
